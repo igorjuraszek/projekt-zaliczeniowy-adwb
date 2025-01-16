@@ -14,3 +14,5 @@
 <img width="1610" alt="Zrzut ekranu 2025-01-16 o 04 17 14" src="https://github.com/user-attachments/assets/ca45d35b-c011-442c-a097-2bfd3c3962ce" />
 - Dodatkowe wykresy
 <img width="1610" alt="Zrzut ekranu 2025-01-16 o 04 17 17" src="https://github.com/user-attachments/assets/1541ac19-d87d-4090-b348-576a0c31ca73" />
+# Wideo
+https://youtu.be/vayVJ2pJJ5o
